@@ -1,4 +1,5 @@
-# [Genomics Annotation Service - Work in Progress, complete date ETA: end of March 2023]
+# Genomics Annotation Service 
+Work in Progress, complete date ETA: end of March 2023
 
 This is a SaaS application for genomics annotation that leverages the AnnTools package (https://github.com/mpcs-cc/anntools).
 
